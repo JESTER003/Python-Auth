@@ -1,6 +1,6 @@
 # Python Authentication System
 
-This is a simple Python authentication system implemented using Flask, Flask-SQLAlchemy, and Flask-Bcrypt , bootstrap for login, logout, and registration functionalities.  
+This is a simple Python authentication system implemented using Flask, Flask-SQLAlchemy, and Flask-Bcrypt , bootstrap for login, logout, and registration functionalities.in this auth langiages are used like python , flask and for login ,logout templates html and css(bootstrap) 
 
 ## Installation
 
