@@ -7,14 +7,14 @@ This is a simple Python authentication system implemented using Flask, Flask-SQL
 ### 1. Clone the repository using terminal :
 
 ```
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/JESTER003/Python-Auth.git
 ```
 
 ### 2. Clone the repository using terminal :
 ```
-cd your-repository
+cd Python-Auth
 ```
-### 3.Create a virtual environment (named myenv, for example):
+### 3.Create a virtual environment using terminal (here named myenv):
 
 ```
 python3 -m venv myenv
@@ -23,7 +23,12 @@ python3 -m venv myenv
 ### 4. Activate the virtual environment using terminal:
 #### For Windows:
 ```
-myenv\Scripts\activate
+myenv\Scripts\activate 
+```
+or to activate in poweshell
+
+```
+myenv\Scripts\Activate.ps1 
 ```
 
 #### For macOS/Linux:
