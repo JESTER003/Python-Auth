@@ -15,7 +15,6 @@ db = SQLAlchemy(app)
 # app.app_context()
 # app.config['SECRET_KEY'] = 'something'
 
-
 class User(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(100), nullable=False)
@@ -97,8 +96,6 @@ def dashboard():
 def logout():
     session.pop("email", None)  # remove username from the session if
     return redirect('/')
-
-
 
 
 if __name__ == "__main__":
