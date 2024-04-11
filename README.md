@@ -36,7 +36,7 @@ myenv\Scripts\Activate.ps1
 source myenv/bin/activate
 ```
 
-### 5. Activate the virtual environment:
+### 5. Download other main modules:
 ```
 pip install flask 
 ```
